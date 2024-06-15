@@ -1,0 +1,33 @@
+nv8vm REPORT 
+********************************************
+Using Joueur.py
+============= Run #1 ============
+[36mConnecting to: chess.mst-ai.xyz:3000[0m
+[36mIn Lobby for game "Chess" in session "gg933000".[0m
+[32mGame is starting.[0m
+0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 [32mGame is Over. I Lost :( because Made an invalid move ('h1g1').
+Valid moves: 'b1d2', 'c1d2', 'd1d2', 'e1d2'[0m
+[36m---
+Your gamelog is viewable at:
+http://siggame.github.io/Viseur/?log=http%3A%2F%2Fchess.mst-ai.xyz%3A3080%2Fgamelog%2FChess-gg933000-2023.05.15.17.57.27.956
+---[0m
+============= Run #2 ============
+[36mConnecting to: chess.mst-ai.xyz:3000[0m
+[36mIn Lobby for game "Chess" in session "gg933001".[0m
+[32mGame is starting.[0m
+0 1 0 1 0 1 0 1 0 1 0 1 0 1 [32mGame is Over. I Lost :( because Made an invalid move ('g1h1').
+Valid moves: 'c2d3', 'e2d3'[0m
+[36m---
+Your gamelog is viewable at:
+http://siggame.github.io/Viseur/?log=http%3A%2F%2Fchess.mst-ai.xyz%3A3080%2Fgamelog%2FChess-gg933001-2023.05.15.17.58.10.005
+---[0m
+============= Run #3 ============
+[36mConnecting to: chess.mst-ai.xyz:3000[0m
+[36mIn Lobby for game "Chess" in session "gg933002".[0m
+[32mGame is starting.[0m
+0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 [32mGame is Over. I Lost :( because Made an invalid move ('h1g1').
+Valid moves: 'e1f2'[0m
+[36m---
+Your gamelog is viewable at:
+http://siggame.github.io/Viseur/?log=http%3A%2F%2Fchess.mst-ai.xyz%3A3080%2Fgamelog%2FChess-gg933002-2023.05.15.18.00.27.311
+---[0m
