@@ -1,0 +1,82 @@
+nv8vm REPORT 
+********************************************
+Using Joueur.py
+============= Run #1 ============
+FEN = 4k3%2F2p3p1%2F1pPp1pPp%2FpP1PpP1P%2FP3P3%2F6B1%2F1R2B3%2F7K%20w%20-%20-%200%201
+[36mConnecting to: chess.mst-ai.xyz:3000[0m
+[36mIn Lobby for game "Chess" in session "gg40498".[0m
+[32mGame is starting.[0m
+21
+b2a2 b2b1 b2b3 b2b4 b2c2 b2d2 e2c4 e2d1 e2d3 e2f1 e2f3 e2g4 g3e1 g3e5 g3f2 g3f4 g3h2 g3h4 h1g1 h1g2 h1h2
+My move = e2c4
+[32mGame is Over. I Won! because Opponent made an invalid move.[0m
+[36m---
+Your gamelog is viewable at:
+http://siggame.github.io/Viseur/?log=http%3A%2F%2Fchess.mst-ai.xyz%3A3080%2Fgamelog%2FChess-gg40498-2023.05.09.08.48.24.206
+---[0m
+============= Run #2 ============
+FEN = 7k%2Fp1n5%2FP3p3%2F1n1pP3%2F2pP4%2Fp1P5%2FP7%2FK7%20b%20-%20-%200%201
+[36mConnecting to: chess.mst-ai.xyz:3000[0m
+[36mIn Lobby for game "Chess" in session "gg40499".[0m
+[32mGame is starting.[0m
+9
+b5c3 b5d4 b5d6 c7a6 c7a8 c7e8 h8g7 h8g8 h8h7
+My move = b5d4
+[32mGame is Over. I Won! because Opponent made an invalid move.[0m
+[36m---
+Your gamelog is viewable at:
+http://siggame.github.io/Viseur/?log=http%3A%2F%2Fchess.mst-ai.xyz%3A3080%2Fgamelog%2FChess-gg40499-2023.05.09.08.48.28.181
+---[0m
+============= Run #3 ============
+FEN = k7%2F2p1p3%2F2P1P3%2F1p3p2%2F1P2QPp1%2F2p3P1%2F2P5%2F5K2%20w%20-%20-%200%201
+[36mConnecting to: chess.mst-ai.xyz:3000[0m
+[36mIn Lobby for game "Chess" in session "gg40500".[0m
+[32mGame is starting.[0m
+17
+e4c4 e4d3 e4d4 e4d5 e4e1 e4e2 e4e3 e4e5 e4f3 e4f5 e4g2 e4h1 f1e1 f1e2 f1f2 f1g1 f1g2
+My move = f1g2
+[32mGame is Over. I Won! because Opponent made an invalid move.[0m
+[36m---
+Your gamelog is viewable at:
+http://siggame.github.io/Viseur/?log=http%3A%2F%2Fchess.mst-ai.xyz%3A3080%2Fgamelog%2FChess-gg40500-2023.05.09.08.48.32.080
+---[0m
+============= Run #4 ============
+FEN = 7k%2Fpppp3p%2F2B1p3%2F5p2%2F4P3%2F8%2F6p1%2FK7%20b%20-%20-%200%204
+[36mConnecting to: chess.mst-ai.xyz:3000[0m
+[36mIn Lobby for game "Chess" in session "gg40501".[0m
+[32mGame is starting.[0m
+15
+a7a6 b7b6 b7c6 d7c6 d7d6 e6e5 f5e4 f5f4 g2g1b g2g1n g2g1q g2g1r h7h6 h8g7 h8g8
+My move = f5f4
+[32mGame is Over. I Won! because Opponent made an invalid move.[0m
+[36m---
+Your gamelog is viewable at:
+http://siggame.github.io/Viseur/?log=http%3A%2F%2Fchess.mst-ai.xyz%3A3080%2Fgamelog%2FChess-gg40501-2023.05.09.08.48.35.970
+---[0m
+============= Run #5 ============
+FEN = r3k2r%2Fp6p%2FP6P%2F8%2F8%2F8%2F8%2FK7%20b%20kq%20-%200%201
+[36mConnecting to: chess.mst-ai.xyz:3000[0m
+[36mIn Lobby for game "Chess" in session "gg40502".[0m
+[32mGame is starting.[0m
+12
+a8b8 a8c8 a8d8 e8c8 e8d7 e8d8 e8e7 e8f7 e8f8 e8g8 h8f8 h8g8
+My move = e8d7
+[32mGame is Over. I Won! because Opponent made an invalid move.[0m
+[36m---
+Your gamelog is viewable at:
+http://siggame.github.io/Viseur/?log=http%3A%2F%2Fchess.mst-ai.xyz%3A3080%2Fgamelog%2FChess-gg40502-2023.05.09.08.48.39.852
+---[0m
+============= Run #6 ============
+FEN = 7k%2F5p1p%2F8%2F5PpP%2F6PR%2F7K%2F8%2F8%20w%20-%20g6%200%202
+[36mConnecting to: chess.mst-ai.xyz:3000[0m
+[36mIn Lobby for game "Chess" in session "gg40503".[0m
+[32mGame is starting.[0m
+7
+f5f6 f5g6 h3g2 h3g3 h3h2 h5g6 h5h6
+My move = h3h2
+[32mGame is Over. I Won! because Opponent made an invalid move.[0m
+[36m---
+Your gamelog is viewable at:
+http://siggame.github.io/Viseur/?log=http%3A%2F%2Fchess.mst-ai.xyz%3A3080%2Fgamelog%2FChess-gg40503-2023.05.09.08.48.43.860
+---[0m
+**************************  Done! 
